@@ -23,3 +23,5 @@ export default [
     },
   },
 ];
+
+// **foi necessário alterar o json para js por conta da atualização da ferramenta**
